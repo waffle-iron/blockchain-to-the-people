@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Blockchain-to-the-People/blockchain-to-the-people.png?columns=all)](https://waffle.io/Blockchain-to-the-People/blockchain-to-the-people?utm_source=badge)
 # Boilermaker
 
 *Good things come in pairs*
